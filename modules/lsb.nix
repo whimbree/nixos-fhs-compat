@@ -174,7 +174,6 @@
           utillinux
 
           # Languages
-          python2
           perl
           python3
 
