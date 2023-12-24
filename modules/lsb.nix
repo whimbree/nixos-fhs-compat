@@ -106,9 +106,6 @@
         at-spi2-core
         at-spi2-atk
 
-        ## Qt Libraries
-        qt4
-
         ## Sound libraries
         alsaLib
         openal
