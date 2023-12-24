@@ -196,7 +196,7 @@
           cups
 
           # Imaging
-          foomatic_filters
+          foomatic-filters
           ghostscript
         ] ++ libsFromPkgs pkgs
         ++ lib.optionals (config.environment.lsb.support32Bit)
